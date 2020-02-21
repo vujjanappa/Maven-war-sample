@@ -1,4 +1,4 @@
-# t parkjava-war-example
+# two parkjava-war-example
 Build war with maven and sparkjava framework
 
 Steps:
